@@ -12,12 +12,13 @@ const EXPERIENCE = [
     org: "Cognevance Technologies",
     meta: "July 2025 — Present",
     points: [
-      "Develop responsive, user-friendly web applications using HTML, CSS, JavaScript, and Responsive Web Design.",
-      "Build reusable frontend components and integrate them with REST APIs for dynamic data handling.",
-      "Collaborate through Git/GitHub, take part in code reviews, and resolve bugs to improve reliability.",
-      "Test features and optimize for responsiveness, performance, and cross-browser compatibility."
-    ],
-    tags: ["JavaScript", "HTML", "CSS", "REST APIs", "Git & GitHub"]
+      
+  "Develop responsive, user-friendly websites using HTML, CSS, JavaScript, and responsive web design principles.",
+  "Create modern, reusable frontend components to build clean and interactive user interfaces.",
+  "Collaborate with team members using Git and GitHub, participate in code reviews, and resolve UI bugs.",
+  "Test and optimize websites for responsiveness, performance, accessibility, and cross-browser compatibility."
+],
+    tags: ["HTML", "CSS", "JavaScript", "Responsive Web Design", "Git & GitHub"]
   },
   {
     icon: "🏗️",
