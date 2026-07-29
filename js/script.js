@@ -8,16 +8,16 @@ const SKILL_GROUPS = [
 const EXPERIENCE = [
   {
     icon: "💻",
-    role: "Full Stack Developer Intern",
+    role: "Web Designing Intern",
     org: "Cognevance Technologies",
     meta: "July 2025 — Present",
     points: [
-      "Develop responsive, user-friendly web applications using HTML, CSS, JavaScript, and React.js.",
+      "Develop responsive, user-friendly web applications using HTML, CSS, JavaScript, and Responsive Web Design.",
       "Build reusable frontend components and integrate them with REST APIs for dynamic data handling.",
       "Collaborate through Git/GitHub, take part in code reviews, and resolve bugs to improve reliability.",
       "Test features and optimize for responsiveness, performance, and cross-browser compatibility."
     ],
-    tags: ["JavaScript", "React.js", "REST APIs", "Git & GitHub"]
+    tags: ["JavaScript", "HTML", "CSS", "REST APIs", "Git & GitHub"]
   },
   {
     icon: "🏗️",
